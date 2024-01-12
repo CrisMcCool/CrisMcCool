@@ -1,10 +1,10 @@
 <!-- GitHub README Header -->
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm replolz!
 
 Passionate about coding, exploring new technologies, and building cool stuff. Welcome to my GitHub profile! 🚀
 
 <!-- GitHub Contribution Graph Animation -->
-![My GitHub Contributions](https://github.com/users/your-username/contributions/blob/main/output/github-contribution-grid-snake.gif)
+![My GitHub Contributions](https://github.com/users/replolz/contributions/blob/main/output/github-contribution-grid-snake.gif)
 
 ## 🔧 Technologies & Tools
 
@@ -19,9 +19,9 @@ Passionate about coding, exploring new technologies, and building cool stuff. We
 ## 🚀 Projects
 
 <!-- Project Cards with Animation -->
-![Project 1: Project Name](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-project-repo&theme=dark)
-![Project 2: Project Name](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-project-repo&theme=dark)
-![Project 3: Project Name](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-project-repo&theme=dark)
+![Project 1: Project Name](https://github-readme-stats.vercel.app/api/pin/?username=replolz&repo=your-project-repo&theme=dark)
+![Project 2: Project Name](https://github-readme-stats.vercel.app/api/pin/?username=replolz&repo=your-project-repo&theme=dark)
+![Project 3: Project Name](https://github-readme-stats.vercel.app/api/pin/?username=replolz&repo=your-project-repo&theme=dark)
 
 ## 🌱 Currently Learning
 
