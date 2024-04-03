@@ -3,7 +3,7 @@
 ## About Me
 - 👩‍💻 I'm currently working on my 🌐 website
 - 🌱 I’m currently learning 🌙 Lua.
-- 📤 I share games on scratch: play them here: 🕹
+- 📤 I share games on scratch: play them [here](https://scratch.mit.edu/users/CrisMcCool) 🕹
 - 💡 Fun fact: I have a 500 day 🦉 Duolingo streak!
 
 ## Languages and Tools
