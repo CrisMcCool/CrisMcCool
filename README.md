@@ -16,5 +16,4 @@
 
 ![](https://komarev.com/ghpvc/?username=CrisMcCool) 
 
-![](https://github-readme-stats.vercel.app/api?username=CrisMcCool&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=My%20Stats)
-![](https://streak-stats.demolab.com?user=CrisMcCool&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)
+![](https://github-readme-stats.vercel.app/api?username=CrisMcCool&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=My%20Stats)![](https://streak-stats.demolab.com?user=CrisMcCool&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)
