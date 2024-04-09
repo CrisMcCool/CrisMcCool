@@ -4,7 +4,7 @@
 - 👩‍💻 I'm currently working on my 🌐 website
 - 🌱 I’m currently learning 🌙 Lua.
 - 📤 I share games on scratch: play them [here](https://scratch.mit.edu/users/CrisMcCool) 🕹
-- 💡 Fun fact: I have a 500 day 🦉 Duolingo streak!
+- 💡 Fun fact: I saw the solar eclipse 🌘
 
 ## Languages and Tools
 [![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)](https://www.w3.org/html/)
