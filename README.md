@@ -3,8 +3,8 @@
 ## About Me
 - 👩‍💻 I'm currently working on my 🌐 website
 - 🌱 I’m currently learning 🌙 Lua.
-- 📤 I share games on scratch: play them [here](https://scratch.mit.edu/users/CrisMcCool) 🕹
-- 💡 Fun fact: I saw the solar eclipse 🌘
+- 📤 I post _stuff_ on scratch: see it [here](https://scratch.mit.edu/users/CrisMcCool) 🕹
+- 💡 Fun fact: I can speak Japanese 🇯🇵
 
 ## Languages and Tools
 [![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)](https://www.w3.org/html/)
