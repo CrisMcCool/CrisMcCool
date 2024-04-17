@@ -3,7 +3,7 @@
 ## About Me
 - 👩‍💻 I'm currently working on my 🌐 website
 - 🌱 I’m currently learning 🌙 Lua.
-- 📤 I post _stuff_ on scratch: see it [here](https://scratch.mit.edu/users/CrisMcCool) 🕹
+- 📤 I made an unblocked games website: check it out [here](https://q2vr7v.csb.app/) 🕹
 - 💡 Fun fact: I can speak Japanese 🇯🇵
 
 ## Languages and Tools
