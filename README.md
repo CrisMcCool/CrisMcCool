@@ -1,7 +1,7 @@
 # Hi there, I'm Cris 👋
 
 ## About Me
-- 👩‍💻 I'm currently working on my 🌐 (website)[https://crismccool.github.io]
+- 👩‍💻 I'm currently working on my 🌐 [website](https://crismccool.github.io)
 - 🌱 I’m currently learning 🌙 Lua.
 - 📤 I made an unblocked games website: check it out [here](https://q2vr7v.csb.app/) 🕹
 - 💡 Fun fact: I can speak Japanese 🇯🇵
