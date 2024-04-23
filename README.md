@@ -2,21 +2,20 @@
 
 ## About Me
 - 👩‍💻 I'm currently working on my 🌐 [website](https://crismccool.github.io)
-- 🌱 I’m currently learning 🌙 Lua.
+- 🌱 I’m currently learning 🌙 Lua and ⚛ React.
 - 📤 I post animations and games on Scratch: check them out [here](https://scratch.mit.edu/users/CrisMcCool/) 🕹
-- 💡 Fun fact: I can speak Japanese 🇯🇵
+- 💡 Fun fact: I'm a 💚 green belt in karate! 🥋
 
 ## Languages and Tools
-[![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)](https://www.w3.org/html/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![CSS](https://img.shields.io/badge/-CSS-blueviolet?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react)](https://reactjs.org/)
-[![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-blue?logo=roblox)](https://www.roblox.com/create)
-[![Python](https://img.shields.io/badge/-Python-blue?logo=python)](https://www.python.org/)
-[![Lua](https://img.shields.io/badge/-Lua-brightgreen?logo=lua)](https://www.lua.org/)
-[![VS Code](https://img.shields.io/badge/-VS%20Code-informational?logo=visualstudiocode)](https://code.visualstudio.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/)
-
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&style=flat&logoColor=white)](https://www.w3.org/html/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat&logoColor=white)](https://reactjs.org/)
+[![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-CA2B25?logo=roblox&style=flat)](https://www.roblox.com/create)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat&logoColor=white)](https://www.python.org/)
+[![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&style=flat)](https://www.lua.org/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&style=flat)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/)
 
 ![](https://komarev.com/ghpvc/?username=CrisMcCool) 
 
