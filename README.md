@@ -8,11 +8,15 @@
 
 ## Languages and Tools
 [![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)](https://www.w3.org/html/)
-[![Python](https://img.shields.io/badge/-Python-blue?logo=python)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CSS](https://img.shields.io/badge/-CSS-blueviolet?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![VS Code](https://img.shields.io/badge/-VS%20Code-informational?logo=visualstudiocode)](https://code.visualstudio.com/)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react)](https://reactjs.org/)
+[![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-blue?logo=roblox)](https://www.roblox.com/create)
+[![Python](https://img.shields.io/badge/-Python-blue?logo=python)](https://www.python.org/)
 [![Lua](https://img.shields.io/badge/-Lua-brightgreen?logo=lua)](https://www.lua.org/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-informational?logo=visualstudiocode)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/)
+
 
 ![](https://komarev.com/ghpvc/?username=CrisMcCool) 
 
