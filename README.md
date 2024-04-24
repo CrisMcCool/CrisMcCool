@@ -16,7 +16,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/)
 [![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-CA2B25?logo=roblox&style=flat)](https://www.roblox.com/create)
 
-![](https://komarev.com/ghpvc/?username=CrisMcCool) 
+![](https://komarev.com/ghpvc/?username=CrisMcCool)
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CrisMcCool&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=My%20Stats" alt="GitHub Stats" width="400" />
