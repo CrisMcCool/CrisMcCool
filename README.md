@@ -4,7 +4,6 @@
 - 👩‍💻 I'm currently working on my 🌐 [website](https://crismccool.github.io)
 - 🌱 I’m currently learning ⚛ React.
 - 📤 I post animations and games on Scratch: check them out [here](https://scratch.mit.edu/users/CrisMcCool/) 🕹
-- 💡 Fun fact: I practice karate competitively! 🥋
 
 ## Languages and Tools
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&style=flat&logoColor=white)](https://www.w3.org/html/)
