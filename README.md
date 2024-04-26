@@ -1,7 +1,7 @@
 # Hi there, I'm Cris 👋
 
 ## About Me
-- 👩‍💻 I'm currently working n my 🌐 [website](https://crismccool.github.io)
+- 👩‍💻 I'm currently working on my 🌐 [website](https://crismccool.github.io)
 - 🌱 I’m currently learning ⚛ React.
 - 📤 I post animations and games on Scratch: check them out [here](https://scratch.mit.edu/users/CrisMcCool/) 🕹
 
