@@ -1,9 +1,9 @@
 # Hi there, I'm Cris 👋
 
 ## About Me
-- 👩‍💻 I'm currently working on my 🌐 [website](https://crismccool.github.io)
-- 🌱 I’m currently learning ⚛ React.
-- 📤 I might move onto Unity soon! 🕹
+- 👩‍💻 I'm currently working on my ⌨️ [terminal](https://crismccool.github.io/terminal)
+- 🌱 I’m currently learning 🌐 Javascript.
+- 📤 Still a beginner at coding 😊
 
 ## Languages and Tools
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&style=flat&logoColor=white)](https://www.w3.org/html/)
