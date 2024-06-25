@@ -3,7 +3,7 @@
 ## About Me
 - 👩‍💻 I'm currently working on my ⌨️ [terminal](https://crismccool.github.io/terminal)
 - 🧠 I’m currently learning 🌐 Javascript.
-- ⚡ Learning coding with [Coddy](coddy.tech)
+- ⚡ Learning coding with [Coddy](https://coddy.tech)
 
 ## Languages and Tools
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&style=flat&logoColor=white)](https://www.w3.org/html/)
