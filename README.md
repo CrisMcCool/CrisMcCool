@@ -1,4 +1,4 @@
-# Hi there, I'm Cris 👋
+# Hey :) 👋
 
 ## About Me
 - 👩‍💻 I'm currently working on ⌨️ [Calvin Clicker](https://calvinclicker.github.io)
