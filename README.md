@@ -1,9 +1,9 @@
 # Hi there, I'm Cris 👋
 
 ## About Me
-- 👩‍💻 I'm currently working on my ⌨️ [terminal](https://crismccool.github.io/terminal)
-- 🧠 I’m currently learning 🌐 Javascript.
-- ⚡ Learning coding with [Coddy](https://coddy.tech)!
+- 👩‍💻 I'm currently working on ⌨️ [Calvin Clicker](https://calvinclicker.github.io)
+- 🧠 I’m currently learning 🌐 Lua (for Roblox Studio.
+- 🙂 I created Calvin Clicker, but I'm not Calvin (he's my friend)
 
 ## Languages and Tools
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&style=flat&logoColor=white)](https://www.w3.org/html/)
