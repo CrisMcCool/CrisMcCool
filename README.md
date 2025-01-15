@@ -1,8 +1,8 @@
 # Hey :) 👋
 
 ## About Me
-- 👩‍💻 I'm currently working on ⌨️ [Calvin Clicker](https://calvinclicker.github.io)
-- 🧠 I’m currently learning 🌐 Lua (for Roblox Studio.
+- 👩‍💻 I'm currently working on nothing, at the moment.
+- 🧠 I’m currently learning 🌐 Lua for Roblox Studio.
 - 🙂 I created Calvin Clicker, but I'm not Calvin (he's my friend)
 
 ## Languages and Tools
