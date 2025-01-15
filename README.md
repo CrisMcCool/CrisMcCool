@@ -3,7 +3,7 @@
 ## About Me
 - 👩‍💻 I'm currently working on nothing, at the moment.
 - 🧠 I’m currently learning 🌐 Lua for Roblox Studio.
-- 🙂 I created Calvin Clicker, but I'm not Calvin (he's my friend)
+- 🙂 I'm still new to programming, but I enjoy it anyways :)
 
 ## Languages and Tools
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&style=flat&logoColor=white)](https://www.w3.org/html/)
